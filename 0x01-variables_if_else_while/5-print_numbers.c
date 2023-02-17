@@ -10,6 +10,7 @@ int main(void)
 int num;
 	/*to print all single numbers of base 10,loop through them*/
 for (num = 0 ; num < 10 ; num++)
-printf("%d\n", num);
+printf("%d", num);
+prinf("\n");
 return (0);
 }
