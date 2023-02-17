@@ -7,10 +7,10 @@
  */
 int main(void)
 {
-int x;
+int num;
 	/*to print all single numbers of base 10,loop through them*/
-for (x = 0 ; x < 10 ; x++)
-printf("%d", x);
+for (num = 0 ; num < 10 ; num++)
+printf("%d", num);
 printf("\n");
 return (0);
 }
